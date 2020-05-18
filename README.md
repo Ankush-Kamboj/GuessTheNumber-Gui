@@ -22,4 +22,6 @@ Guess the number game with Gui created with python and tkinter.
 Ankush Kamboj
 
 ## Illustrations
-![Alt text](https://github.com/Ankush-Kamboj/CalculatorGui/blob/master/Screenshot1.PNG?raw=true "Calculator")
+![Alt text](https://github.com/Ankush-Kamboj/GuessTheNumber-Gui/blob/master/ScreenShot1.PNG?raw=true "GuessTheNumberGame1")
+![Alt text](https://github.com/Ankush-Kamboj/GuessTheNumber-Gui/blob/master/ScreenShot2.PNG?raw=true "GuessTheNumberGame2")
+![Alt text](https://github.com/Ankush-Kamboj/GuessTheNumber-Gui/blob/master/ScreenShot2.PNG?raw=true "GuessTheNumberGame2")
