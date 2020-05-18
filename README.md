@@ -24,4 +24,4 @@ Ankush Kamboj
 ## Illustrations
 ![Alt text](https://github.com/Ankush-Kamboj/GuessTheNumber-Gui/blob/master/ScreenShot1.PNG?raw=true "GuessTheNumberGame1")
 ![Alt text](https://github.com/Ankush-Kamboj/GuessTheNumber-Gui/blob/master/ScreenShot2.PNG?raw=true "GuessTheNumberGame2")
-![Alt text](https://github.com/Ankush-Kamboj/GuessTheNumber-Gui/blob/master/ScreenShot2.PNG?raw=true "GuessTheNumberGame2")
+![Alt text](https://github.com/Ankush-Kamboj/GuessTheNumber-Gui/blob/master/ScreenShot3.PNG?raw=true "GuessTheNumberGame3")
